@@ -2,31 +2,32 @@ U-Vanessa/README.md
 
 
 ## Introduction
+
 Hey there! I'm thrilled to have you here. I am a motivated and courageous software engineer relentlessly pursuing excellence. I am ready to embrace new challenges, push the boundaries of technology, and contribute my skills to create impactful and transformative software solutions. I'm passionate about leveraging technology to solve complex problems and create meaningful solutions to real-world problems.
 
 ## About Me
 
-User : Vanessa UWONKUNDA
-Location : Kigali, Rwanda
+* User : Vanessa UWONKUNDA
+* Location : Kigali, Rwanda
 
 ## Skills
 
 Here are some of the key skills I possess:
 
-Software Development: Agile methodology, Docker, Restful API
-Frontend Development: HTML, CSS, JavaScript, React.js
-Database design and development: MySQL
-Version Control: Git, GitHub
-Problem Solving: debugging, algorithm design, flowchart
-Communication: Clear written and verbal communication, active listening
+* Software Development: Agile methodology, Docker, Restful API
+* Frontend Development: HTML, CSS, JavaScript, React.js
+* Database design and development: MySQL
+* Version Control: Git, GitHub
+* Problem Solving: debugging, algorithm design, flowchart
+* Communication: Clear written and verbal communication, active listening
 
 ## Tech Stack
 
 Here are some of the technologies I work with:
 
-Languages: JavaScript, Python, Java, HTML, CSS
-Frameworks/Libraries: React.js, Node.js
-Databases: MySQL
+* Languages: JavaScript, Python, Java, HTML, CSS
+* Frameworks/Libraries: React.js, Node.js
+* Databases: MySQL
 
 ## Most Used Languages
 
@@ -73,7 +74,7 @@ I'm open to collaboration opportunities, including:
 
 Feel free to reach out to me via:
 
-Email : uwonkundavanessa3@gmail.com
-Mobile : +250784486209
-LinkedIn : Vanessa UWONKUNDA on LinkedIn
-GitHub : U-Vanessa on GitHub
+* Email : uwonkundavanessa3@gmail.com
+* Mobile : +250784486209
+* LinkedIn : Vanessa UWONKUNDA on LinkedIn
+* GitHub : U-Vanessa on GitHub
